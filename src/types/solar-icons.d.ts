@@ -1,0 +1,2 @@
+declare module '@solar-icons/react';
+
